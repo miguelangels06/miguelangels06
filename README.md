@@ -17,10 +17,3 @@ Como desarrollador FullStack 💻, me apasiona la construcción de soluciones te
 <p align="center">
   <img src="https://c.tenor.com/M8NOboaCB2MAAAAC/tenor.gif" width="300"/>
 </p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" width="400"/>
-</p>
-
-
