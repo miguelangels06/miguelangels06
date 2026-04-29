@@ -18,15 +18,6 @@ Como desarrollador FullStack 💻, me apasiona la construcción de soluciones te
   <img src="https://c.tenor.com/M8NOboaCB2MAAAAC/tenor.gif" width="300"/>
 </p>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=miguelangels06&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=miguelangels06&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=miguelangels06&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=miguelangels06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" width="400"/>
