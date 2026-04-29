@@ -23,8 +23,4 @@ Como desarrollador FullStack 💻, me apasiona la construcción de soluciones te
   <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" width="400"/>
 </p>
 
----
 
-[![](https://komarev.com/ghpvc/?username=miguelangels06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
