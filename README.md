@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Miguel Ángel Simbaqueva</h1>
-<h3 align="center">💻 Desarrollador FullStack | Tecnología aplicada a la educación 🎓</h3>
+<h3 align="center">💻 Desarrollador FullStack</h3>
 
 <p align="center">
   <img src="https://c.tenor.com/MnvRq-aH4NkAAAAd/tenor.gif" width="420" alt="Coding gif" />
