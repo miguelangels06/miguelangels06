@@ -23,7 +23,7 @@ Me motiva enfrentar nuevos retos 🚀, optimizar procesos mediante tecnología �
 
 <p align="center">
   <a href="https://linkedin.com/in/linkedin.com/in/miguel-angel-simbaqueva-bautista-7855b8192" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="www.linkedin.com/in/miguel-angel-simbaqueva-bautista-7855b8192 Color=white" alt="LinkedIn" />
   </a>
 </p>
 
